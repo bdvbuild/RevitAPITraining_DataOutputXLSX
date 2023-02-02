@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_DataOutputXLSX.dll"</Assembly>
+		<AddInId>C0CCD0EE-6ECB-4CFE-9373-7FA69503A3C4</AddInId>
+		<FullClassName>RevitAPITraining_DataOutputXLSX.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>4.2 Вывод информации по трубам в эксель</Text>
+	</AddIn>
+</RevitAddIns>
